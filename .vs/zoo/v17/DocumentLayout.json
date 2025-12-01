@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mgarluq1102\\Desktop\\Desarrollo-de-Interfaces\\C#\\zoo\\zoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A526EC-375C-480D-9057-4825F3097454}|zoo\\zoo.csproj|c:\\users\\mgarluq1102\\desktop\\desarrollo-de-interfaces\\c#\\zoo\\zoo\\zoo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A526EC-375C-480D-9057-4825F3097454}|zoo\\zoo.csproj|solutionrelative:zoo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A526EC-375C-480D-9057-4825F3097454}|zoo\\zoo.csproj|c:\\users\\mgarluq1102\\desktop\\desarrollo-de-interfaces\\c#\\zoo\\zoo\\zoo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D2A526EC-375C-480D-9057-4825F3097454}|zoo\\zoo.csproj|solutionrelative:zoo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\mgarluq1102\\Desktop\\Desarrollo-de-Interfaces\\C#\\zoo\\zoo\\zoo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "zoo\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\mgarluq1102\\Desktop\\Desarrollo-de-Interfaces\\C#\\zoo\\zoo\\zoo\\MainWindow.xaml",
+              "RelativeToolTip": "zoo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-27T09:50:29.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mgarluq1102\\Desktop\\Desarrollo-de-Interfaces\\C#\\zoo\\zoo\\zoo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "zoo\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\mgarluq1102\\Desktop\\Desarrollo-de-Interfaces\\C#\\zoo\\zoo\\zoo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "zoo\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T09:50:25.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

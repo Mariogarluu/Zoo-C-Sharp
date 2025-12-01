@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SqsxFPsZ5+8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mgarluq1102\\Desktop\\Desarrollo-de-Interfaces\\C#\\zoo\\zoo\\zoo\\zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mgarluq1102\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.1.11\\sqlitepclraw.bundle_green.2.1.11.nupkg.sha512",
+    "C:\\Users\\mgarluq1102\\.nuget\\packages\\sqlitepclraw.core\\2.1.11\\sqlitepclraw.core.2.1.11.nupkg.sha512",
+    "C:\\Users\\mgarluq1102\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.11\\sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\mgarluq1102\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.11\\sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\mgarluq1102\\.nuget\\packages\\system.data.sqlite\\2.0.2\\system.data.sqlite.2.0.2.nupkg.sha512",
+    "C:\\Users\\mgarluq1102\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
